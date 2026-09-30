@@ -29,15 +29,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradionizio&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-
-
-<br><br>  
-- 🕹️ Atualmente aprendendo mais sobre **back-end e boas práticas de programação**  
-- 🎯 Objetivo: crescer como desenvolvedora full stack  
-- 📚 Gosto de aprender e compartilhar conhecimento com a comunidade  
-- 🛹 Amante de esportes e de desafios de programação  <br><br>  
-
-
 <p align="center">
   <a href="mailto:daradionizio@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dara-dionizio/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
